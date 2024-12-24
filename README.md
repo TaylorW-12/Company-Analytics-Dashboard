@@ -1,4 +1,5 @@
-Repository Name: People Analytics Dashboard
+People Analytics Dashboard
+https://public.tableau.com/views/PeopleAnalyticsDashboard_17350125258500/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Description:
 This project contains a Tableau dashboard developed with dummy company data to showcase insights into the metrics of employees, survey results, and department-level performance. The dataset comprises employee demographic information, engagement scores, attrition rates, and departmental headcounts. The dashboard is developed to present interactive visualizations, including pie charts, bar graphs, KPIs, and other techniques for human resources and people analytics use cases.
